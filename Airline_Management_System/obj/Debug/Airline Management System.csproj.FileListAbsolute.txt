@@ -1,0 +1,20 @@
+G:\CSE Related stuffs\Visual Stdio\projects practice\Airline Management System\Airline Management System\bin\Debug\Airline Management System.exe.config
+G:\CSE Related stuffs\Visual Stdio\projects practice\Airline Management System\Airline Management System\bin\Debug\Airline Management System.exe
+G:\CSE Related stuffs\Visual Stdio\projects practice\Airline Management System\Airline Management System\bin\Debug\Airline Management System.pdb
+G:\CSE Related stuffs\Visual Stdio\projects practice\Airline Management System\Airline Management System\obj\Debug\Airline Management System.csproj.AssemblyReference.cache
+G:\CSE Related stuffs\Visual Stdio\projects practice\Airline Management System\Airline Management System\obj\Debug\Airline Management System.csproj.SuggestedBindingRedirects.cache
+G:\CSE Related stuffs\Visual Stdio\projects practice\Airline Management System\Airline Management System\obj\Debug\Airline_Management_System.Properties.Resources.resources
+G:\CSE Related stuffs\Visual Stdio\projects practice\Airline Management System\Airline Management System\obj\Debug\Airline Management System.csproj.GenerateResource.cache
+G:\CSE Related stuffs\Visual Stdio\projects practice\Airline Management System\Airline Management System\obj\Debug\Airline Management System.csproj.CoreCompileInputs.cache
+G:\CSE Related stuffs\Visual Stdio\projects practice\Airline Management System\Airline Management System\obj\Debug\Airline Management System.exe
+G:\CSE Related stuffs\Visual Stdio\projects practice\Airline Management System\Airline Management System\obj\Debug\Airline Management System.pdb
+G:\CSE Related stuffs\Visual Stdio\projects practice\Airline Management System\Airline Management System\obj\Debug\Airline_Management_System.Login.resources
+G:\CSE Related stuffs\Visual Stdio\projects practice\Airline Management System\Airline Management System\obj\Debug\Airline_Management_System.Splash.resources
+G:\CSE Related stuffs\Visual Stdio\projects practice\Airline Management System\Airline Management System\obj\Debug\Airline_Management_System.Flight.resources
+G:\CSE Related stuffs\Visual Stdio\projects practice\Airline Management System\Airline Management System\obj\Debug\Airline_Management_System.ViewFlights.resources
+G:\CSE Related stuffs\Visual Stdio\projects practice\Airline Management System\Airline Management System\obj\Debug\Airline_Management_System.Cancellation.resources
+G:\CSE Related stuffs\Visual Stdio\projects practice\Airline Management System\Airline Management System\obj\Debug\Airline_Management_System.AddPassengers.resources
+G:\CSE Related stuffs\Visual Stdio\projects practice\Airline Management System\Airline Management System\obj\Debug\Airline_Management_System.ViewPassengers.resources
+G:\CSE Related stuffs\Visual Stdio\projects practice\Airline Management System\Airline Management System\obj\Debug\Airline_Management_System.MainMenu.resources
+G:\CSE Related stuffs\Visual Stdio\projects practice\Airline Management System\Airline Management System\obj\Debug\Airline_Management_System.Tickets.resources
+G:\CSE Related stuffs\Visual Stdio\projects practice\Airline Management System\Airline Management System\obj\Debug\Airline_Management_System.AdminPanel.resources
