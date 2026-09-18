@@ -1,3 +1,8 @@
+<h2 align="center">Have a look at the Data flow diagram of Airline Management System</h2>
+<p align="Center">
+  <img src="Diagrams/Dataflow_Diagram.jpg" alt="DFD Preview" height="400" width="800">
+</p>
+
 # ✈️ Airline Management System
 
 A desktop application built using **C# (.NET Framework)** and **Windows Forms (WinForms)** that streamlines daily operations for airline administrators. It offers a structured workflow to manage flights, passengers, ticket bookings, and cancellations.
